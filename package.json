@@ -1,0 +1,34 @@
+{
+  "name": "animated-scroll-js",
+  "version": "1.0.1",
+  "description": "jQuery based smooth scrolling plugin. Depends on jQuery Library. Version above 1.4",
+  "main": "animate-scroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shastry-chamarthi/animated-scroll.git"
+  },
+  "keywords": [
+    "jQuery",
+    "scroll",
+    "plugin",
+    "smooth",
+    "scroll",
+    "anchor",
+    "navigation",
+    "scroll",
+    "to",
+    "element"
+  ],
+  "author": "Sathyanarayana Chamarthi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shastry-chamarthi/animated-scroll/issues"
+  },
+  "homepage": "https://github.com/shastry-chamarthi/animated-scroll#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
